@@ -1,4 +1,7 @@
 # Working with Categorical Data in Python
+<p align="center">
+  <img src="image.png" alt="Image" width="1100" height="450">
+</p>
 
 ## Overview
 Welcome to the **Working with Categorical Data in Python** project! This Jupyter Notebook is designed to help you understand and process categorical data efficiently. Whether you're working on data preprocessing, feature engineering, or visualization, this notebook provides clear explanations and hands-on implementations using Pandas, NumPy, Seaborn, and Matplotlib.
