@@ -28,11 +28,11 @@ pip install numpy pandas matplotlib seaborn
 ## Usage
 1. Clone this repository:
 ```bash
-git clone <repository_url>
+git clone <https://github.com/MuhammadTaha1038/Categorical-Data-Analysis.git>
 ```
 2. Navigate to the project directory:
 ```bash
-cd <repository_name>
+cd <Categorical-Data-Analysis>
 ```
 3. Launch Jupyter Notebook:
 ```bash
